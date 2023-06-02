@@ -1,0 +1,8 @@
+api-version: 1.19
+name: OpEnchantingTable
+author: NiavlyS
+version: 2.0
+main: fr.niavlys.openchant.Main
+commands:
+  setlang:
+    description: setlang
